@@ -1,4 +1,4 @@
-# 04-saas-cloudinary
+# saas-cloudinary
 
 Lightweight Next.js SaaS demo integrating Cloudinary for image/video uploads, Prisma (Postgres) for persistence, and Clerk for authentication.
 
